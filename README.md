@@ -19,11 +19,11 @@ This is a basic card that shows a QR code, it has a breakpoint at 376 pixels min
 
 Desktop version:
 
-![Desktop Screenshot](screenshots/screenshot-desktop.jpg)
+![Desktop Screenshot](screenshots/screenshot-desktop.png)
 
 Mobile version:
 
-![Mobile Screenshot](screenshots/screenshot-mobile.jpg)
+![Mobile Screenshot](screenshots/screenshot-mobile.png)
 
 
 ## Links
